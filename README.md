@@ -1,4 +1,4 @@
-(Not completed yet)
+(ReadMe file completed yet)
 
 # CatRecognizer
 Implementation of APB module and a ML Classificator module
